@@ -90,3 +90,37 @@
     background-color: #777;
   }
   
+  td#padding-tab
+  {
+    width:20px;
+    height: 20px;
+  }
+  
+  td#padding
+  {
+    width: 100px;
+  }
+  
+  td.label
+  {
+    background-color: #E3DFF2;
+  }
+  
+  textarea#interests, textarea#references 
+  {
+    width: 500px;
+    height: 175px;
+  }
+  
+  textarea.workexp
+  {
+    width: 250px;
+    height: 84px;
+  }
+  
+  input.counter
+  {
+    width:30px;
+  }
+  
+  
