@@ -1,0 +1,9 @@
+DROP DATABASE IF EXISTS resume_builder;
+
+CREATE DATABASE resume_builder;
+
+
+USE resume_builder;
+
+
+CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY NOT NULL, email VARCHAR(50) NOT NULL DEFAULT 0, password VARCHAR(50) NOT NULL DEFAULT 0);
